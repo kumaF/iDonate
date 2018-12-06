@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXCheckBox?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXDatePicker?>
+<?import com.jfoenix.controls.JFXRadioButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="768.0" prefWidth="1366.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.profileFXMLController">
+   <children>
+      <AnchorPane prefHeight="768.0" prefWidth="295.0" style="-fx-background-color: #352158;">
+         <children>
+            <JFXButton layoutX="29.0" layoutY="702.0" onAction="#handleLogOutButton" prefHeight="34.0" prefWidth="230.0" style="-fx-border-color: #7948DD;" text="Log Out" textFill="#d2d2d2">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </JFXButton>
+            <JFXButton fx:id="btnProfile" layoutX="5.0" layoutY="140.0" onAction="#handlePaneButton" prefHeight="67.0" prefWidth="283.0" text="Profile" textFill="#e2e2e2">
+               <font>
+                  <Font name="Segoe UI" size="16.0" />
+               </font>
+            </JFXButton>
+            <JFXButton fx:id="btnDonate" layoutX="5.0" layoutY="207.0" onAction="#handlePaneButton" prefHeight="67.0" prefWidth="283.0" text="Donate" textFill="#e2e2e2">
+               <font>
+                  <Font name="Segoe UI" size="16.0" />
+               </font>
+            </JFXButton>
+            <JFXButton fx:id="btnSettings" layoutX="5.0" layoutY="342.0" onAction="#handlePaneButton" prefHeight="67.0" prefWidth="283.0" text="Settings" textFill="#e2e2e2">
+               <font>
+                  <Font name="Segoe UI" size="16.0" />
+               </font>
+            </JFXButton>
+            <Label alignment="CENTER" contentDisplay="CENTER" layoutX="49.0" layoutY="14.0" prefHeight="47.0" prefWidth="190.0" text="I DOnate" textAlignment="CENTER" textFill="#e2e2e2">
+               <font>
+                  <Font name="BebasNeue" size="50.0" />
+               </font>
+            </Label>
+            <Separator layoutX="44.0" layoutY="78.0" prefHeight="41.0" prefWidth="200.0" />
+            <JFXButton fx:id="btnRequest" layoutX="7.0" layoutY="274.0" onAction="#handlePaneButton" prefHeight="67.0" prefWidth="283.0" text="My Request" textFill="#e2e2e2">
+               <font>
+                  <Font name="Segoe UI" size="16.0" />
+               </font>
+            </JFXButton>
+         </children></AnchorPane>
+      <VBox prefHeight="768.0" prefWidth="1073.0">
+         <children>
+            <AnchorPane prefHeight="100.0" prefWidth="1078.0" style="-fx-background-color: #ffffff;">
+               <children>
+                  <JFXTextField focusColor="#7948dd" layoutX="26.0" layoutY="34.0" prefHeight="19.0" prefWidth="229.0" promptText="Search for blood, organs, tissue">
+                     <font>
+                        <Font name="Arial Italic" size="13.0" />
+                     </font>
+                  </JFXTextField>
+                  <JFXButton layoutX="276.0" layoutY="32.0" style="-fx-background-color: #7948DD;" text="Search" textFill="WHITE">
+                     <font>
+                        <Font size="13.0" />
+                     </font>
+                  </JFXButton>
+                  <JFXButton layoutX="1038.0" onAction="#handleCloseButton" text="x">
+                     <font>
+                        <Font name="Arial" size="18.0" />
+                     </font>
+                  </JFXButton>
+               </children>
+            </AnchorPane>
+            <AnchorPane fx:id="mainPain" prefHeight="686.0" prefWidth="1073.0" style="-fx-background-color: #ffffff;">
+               <children>
+                  <AnchorPane fx:id="profilePane" prefHeight="676.0" prefWidth="1074.4" style="-fx-background-color: #F3F3F3;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                     <children>
+                        <Label fx:id="lblName" contentDisplay="RIGHT" layoutX="230.0" layoutY="15.0" prefHeight="86.0" prefWidth="671.0" text="Kumara Fernando" textAlignment="RIGHT">
+                           <font>
+                              <Font name="BebasNeue" size="65.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblAge" contentDisplay="RIGHT" layoutX="232.0" layoutY="115.0" prefHeight="34.0" prefWidth="239.0" text="Age : 23" textAlignment="RIGHT">
+                           <font>
+                              <Font name="Bebas" size="18.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblBloodType" contentDisplay="RIGHT" layoutX="232.0" layoutY="86.0" prefHeight="34.0" prefWidth="239.0" text="Blood Group : O-" textAlignment="RIGHT">
+                           <font>
+                              <Font name="Bebas" size="18.0" />
+                           </font>
+                        </Label>
+                        <ImageView fx:id="imgProfile" fitHeight="177.0" fitWidth="178.0" layoutX="32.0" layoutY="34.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../Images/facebook-avatar.jpg" />
+                           </image>
+                        </ImageView>
+                        <Label fx:id="lblMobile" contentDisplay="RIGHT" layoutX="232.0" layoutY="144.0" prefHeight="34.0" prefWidth="358.0" text="Mobile : 0773299386" textAlignment="RIGHT">
+                           <font>
+                              <Font name="Bebas" size="18.0" />
+                           </font>
+                        </Label>
+                        <JFXButton fx:id="btnEditProfile" layoutX="967.0" layoutY="29.0" onAction="#handleEditProfileButton" text="Edit Profile" underline="true">
+                           <font>
+                              <Font name="Segoe UI" size="14.0" />
+                           </font>
+                        </JFXButton>
+                        <Separator layoutY="234.0" prefHeight="18.0" prefWidth="1073.0" />
+                        <Label contentDisplay="RIGHT" layoutX="32.0" layoutY="263.0" prefHeight="34.0" prefWidth="87.0" text="Organs">
+                           <font>
+                              <Font name="Bebas" size="18.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane fx:id="settingsPane" prefHeight="686.4" prefWidth="1077.6" style="-fx-background-color: #F3F3F3;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                     <children>
+                        <Label contentDisplay="RIGHT" layoutX="43.0" layoutY="74.0" prefHeight="42.0" prefWidth="128.0" text="Organs">
+                           <font>
+                              <Font name="Bebas" size="25.0" />
+                           </font>
+                        </Label>
+                        <JFXCheckBox fx:id="chkKidney" layoutX="44.0" layoutY="144.0" text="Kidney" AnchorPane.bottomAnchor="507.0" AnchorPane.leftAnchor="44.0" AnchorPane.rightAnchor="953.5999999999999" AnchorPane.topAnchor="144.0">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <JFXCheckBox fx:id="chkHeart" layoutX="220.0" layoutY="144.0" text="Heart" AnchorPane.leftAnchor="220.0" AnchorPane.rightAnchor="780.0">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <JFXCheckBox fx:id="chkLungs" layoutX="377.0" layoutY="187.0" text="Lungs" AnchorPane.leftAnchor="377.0" AnchorPane.rightAnchor="623.0">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <JFXCheckBox fx:id="chkLiver" layoutX="220.0" layoutY="187.0" text="Liver" AnchorPane.leftAnchor="220.0" AnchorPane.rightAnchor="780.0">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <JFXCheckBox fx:id="chkPancreas" layoutX="44.0" layoutY="187.0" text="Pancreas" AnchorPane.bottomAnchor="464.0" AnchorPane.leftAnchor="44.0" AnchorPane.rightAnchor="956.0" AnchorPane.topAnchor="187.0">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <JFXCheckBox fx:id="chkIntestines" layoutX="377.0" layoutY="144.0" text="Intestines">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <Separator layoutY="221.0" prefHeight="18.0" prefWidth="1100.0" />
+                        <Label contentDisplay="RIGHT" layoutX="43.0" layoutY="241.0" prefHeight="42.0" prefWidth="128.0" text="Tissues">
+                           <font>
+                              <Font name="Bebas" size="25.0" />
+                           </font>
+                        </Label>
+                        <JFXCheckBox fx:id="chkVeins" layoutX="44.0" layoutY="308.0" text="Veins">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <JFXCheckBox fx:id="chkCorneas" layoutX="220.0" layoutY="308.0" text="Corneas">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <JFXCheckBox fx:id="chkHeartValves" layoutX="43.0" layoutY="400.0" text="Heart Valves">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <JFXCheckBox fx:id="chkBone" layoutX="377.0" layoutY="308.0" text="Bone">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <JFXCheckBox fx:id="chkMiddleEar" layoutX="377.0" layoutY="400.0" text="Middle Ear">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <JFXCheckBox fx:id="chkSkin" layoutX="43.0" layoutY="353.0" text="Skin">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <Separator layoutY="433.0" prefHeight="18.0" prefWidth="1100.0" />
+                        <JFXCheckBox fx:id="chkCartilage" layoutX="220.0" layoutY="353.0" text="Cartilage">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <JFXCheckBox fx:id="chkTendons" layoutX="221.0" layoutY="400.0" text="Tendons">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <JFXCheckBox fx:id="chkLigaments" layoutX="377.0" layoutY="353.0" text="Ligaments">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <Label contentDisplay="RIGHT" layoutX="43.0" layoutY="453.0" prefHeight="42.0" prefWidth="128.0" text="Blood">
+                           <font>
+                              <Font name="Bebas" size="25.0" />
+                           </font>
+                        </Label>
+                        <JFXCheckBox fx:id="chkBlood" layoutX="44.0" layoutY="516.0" text="Blood">
+                           <font>
+                              <Font name="Segoe UI" size="16.0" />
+                           </font>
+                        </JFXCheckBox>
+                        <JFXButton fx:id="btnSubmit" layoutX="910.0" layoutY="598.0" onAction="#handleSubmitButton" prefHeight="34.0" prefWidth="128.0" style="-fx-background-color: #7948DD;" text="Submit" textFill="WHITE">
+                           <font>
+                              <Font size="14.0" />
+                           </font>
+                        </JFXButton>
+                        <Rectangle fill="#7948dd" height="59.0" layoutX="-1.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="1102.0" />
+                        <Label layoutX="42.0" layoutY="8.0" prefHeight="42.0" prefWidth="230.0" text="Donations" textFill="#e2e2e2">
+                           <font>
+                              <Font name="Segoe UI" size="30.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane fx:id="donatePane" layoutX="3.0" prefHeight="686.4" prefWidth="1077.6" style="-fx-background-color: #E8E8E8;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                     <children>
+                        <Label layoutX="169.0" layoutY="349.0" text="Donate Pane" />
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane fx:id="requestPane" prefHeight="686.0" prefWidth="1100.0" style="-fx-background-color: #E8E8E8;">
+                     <children>
+                        <AnchorPane fx:id="requestFormPane" prefHeight="686.0" prefWidth="1074.0" style="-fx-background-color: #E8E8E8;">
+                           <children>
+                              <Label layoutX="98.0" layoutY="109.0" prefHeight="19.0" prefWidth="259.0" text="What do you request">
+                                 <font>
+                                    <Font name="Segoe UI" size="15.0" />
+                                 </font>
+                              </Label>
+                              <JFXComboBox fx:id="subGroup" focusColor="#7948dd" layoutX="98.0" layoutY="207.0" prefHeight="26.0" prefWidth="272.0" promptText="Select " />
+                              <JFXRadioButton fx:id="rBtnBlood" layoutX="312.0" layoutY="159.0" onAction="#handleBloodButton" text="Blood" />
+                              <JFXRadioButton fx:id="rBtnOrgan" layoutX="198.0" layoutY="159.0" onAction="#handleOrganButton" text="Organ" />
+                              <JFXRadioButton fx:id="rBtnTissue" layoutX="82.0" layoutY="159.0" onAction="#handleTissueButton" text="Tissue" />
+                              <JFXDatePicker fx:id="requireDate" defaultColor="#7948dd" layoutX="98.0" layoutY="266.0" prefHeight="28.0" prefWidth="272.0" promptText="Required Date" />
+                              <JFXTextField fx:id="txtRequireLocation" focusColor="#7948dd" labelFloat="true" layoutX="98.0" layoutY="331.0" prefHeight="26.0" prefWidth="272.0" promptText="Required Location" />
+                              <Rectangle fill="#7948dd" height="59.0" layoutX="-1.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="1102.0" />
+                              <Label layoutX="57.0" layoutY="8.0" prefHeight="42.0" prefWidth="230.0" text="Request Form" textFill="#e2e2e2">
+                                 <font>
+                                    <Font name="Segoe UI" size="30.0" />
+                                 </font>
+                              </Label>
+                              <JFXButton fx:id="btnSubmitRqst" layoutX="98.0" layoutY="407.0" onAction="#handleSubmitForm" prefHeight="30.0" prefWidth="145.0" style="-fx-background-color: #7948DD;" text="Submit" textFill="WHITE">
+                                 <font>
+                                    <Font size="13.0" />
+                                 </font>
+                              </JFXButton>
+                           </children>
+                        </AnchorPane>
+                        <AnchorPane fx:id="requestPaneResult" prefHeight="686.0" prefWidth="1100.0" style="-fx-background-color: #E8E8E8;">
+                           <children>
+                              <JFXButton fx:id="btnNewRqst" layoutX="99.0" layoutY="573.0" onAction="#handleNewRequest" prefHeight="30.0" prefWidth="146.0" style="-fx-background-color: #7948DD;" text="New Request" textFill="WHITE">
+                                 <font>
+                                    <Font size="13.0" />
+                                 </font>
+                              </JFXButton>
+                              <Rectangle fill="#7948dd" height="59.0" layoutX="-1.0" layoutY="-1.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="1102.0" />
+                              <Label layoutX="58.0" layoutY="8.0" prefHeight="42.0" prefWidth="283.0" text="Pending Requests" textFill="#e2e2e2">
+                                 <font>
+                                    <Font name="Segoe UI" size="30.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </AnchorPane>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </AnchorPane>
+         </children>
+      </VBox>
+   </children>
+</HBox>

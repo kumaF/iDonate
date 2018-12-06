@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JavaProject$Main.coverage" NAME="Main Coverage Results" MODIFIED="1513247597476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sample.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="14" column="71" lean-forward="false" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profileFXMLController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/profileFXMLController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="273" column="68" lean-forward="false" selection-start-line="273" selection-start-column="68" selection-end-line="273" selection-end-column="68" />
+              <folding>
+                <element signature="method#initialize#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#handlePaneButton#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="e#3143#3144#0" expanded="true" />
+                <element signature="e#3183#3184#0" expanded="true" />
+                <element signature="e#3270#3271#0" expanded="true" />
+                <element signature="e#3300#3301#0" expanded="true" />
+                <element signature="method#handleLogOutButton#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#handleEditProfileButton#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#getProfileDetails#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#setProfileDetails#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#handleSubmitButton#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#submitDonateValues#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#pickDonateDetails#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#getExistingDonateDetails#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#setExistingDonateDetails#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#handleTissueButton#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#handleBloodButton#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#handleOrganButton#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#handleNewRequest#0;class#profileFXMLController#0" expanded="false" />
+                <element signature="method#handleSubmitForm#0;class#profileFXMLController#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signUpFXMLController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/signUpFXMLController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="57" column="66" lean-forward="false" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+              <folding>
+                <element signature="method#setValues#0;class#signUpFXMLController#0" expanded="false" />
+                <element signature="method#handleSignUpButton#0;class#signUpFXMLController#0" expanded="false" />
+                <element signature="method#handleBackButton#0;class#signUpFXMLController#0" expanded="false" />
+                <element signature="method#validate#0;class#signUpFXMLController#0" expanded="false" />
+                <element signature="method#submit2DB#0;class#signUpFXMLController#0" expanded="false" />
+                <element signature="method#setExitingValues#0;class#signUpFXMLController#0" expanded="false" />
+                <element signature="method#initialize#0;class#signUpFXMLController#0" expanded="false" />
+                <marker date="1513493955049" expanded="true" signature="4781:5027" ph="INSERT INTO PATIENT_REQUEST... " />
+                <marker date="1513493955049" expanded="true" signature="5149:5386" ph="UPDATE PATIENT... " />
+                <marker date="1513493955049" expanded="true" signature="5427:5694" ph="INSERT INTO PATIENT... " />
+                <marker date="1513493955049" expanded="true" signature="6580:6625" ph="SELECT * FRO... PATIENT" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profileFXML.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/profileFXML.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2604">
+              <caret line="124" column="146" lean-forward="false" selection-start-line="124" selection-start-column="146" selection-end-line="124" selection-end-column="146" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/user.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#user#0;class#user#0" expanded="false" />
+                <element signature="method#verifyUname#0;class#user#0" expanded="false" />
+                <element signature="method#auth#0;class#user#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sample/FXML/signUpFXML.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/FXML/loginFXML.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/src/sample/loginController.java" />
+        <option value="$PROJECT_DIR$/src/sample/signUp.java" />
+        <option value="$PROJECT_DIR$/src/sample/signUpFXML.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/dbConnect.java" />
+        <option value="$PROJECT_DIR$/src/sample/appModel.java" />
+        <option value="$PROJECT_DIR$/src/sample/loginFXML.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/disease.java" />
+        <option value="$PROJECT_DIR$/src/sample/loginFXMLController.java" />
+        <option value="$PROJECT_DIR$/src/sample/transplant.java" />
+        <option value="$PROJECT_DIR$/src/sample/organs.java" />
+        <option value="$PROJECT_DIR$/src/sample/tissues.java" />
+        <option value="$PROJECT_DIR$/src/sample/blood.java" />
+        <option value="$PROJECT_DIR$/src/sample/profileFXML.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/sample/user.java" />
+        <option value="$PROJECT_DIR$/src/sample/signUpFXMLController.java" />
+        <option value="$PROJECT_DIR$/src/sample/profileFXMLController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LahiruProject" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kumara Fernando\IdeaProjects\JavaProject\src\sample" />
+      <recent name="C:\Users\Kumara Fernando\IdeaProjects\JavaProject\src\sample\FXML" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaProject" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1511897428981" duration="9495000" />
+      <workItem from="1511933537503" duration="14206000" />
+      <workItem from="1511964734482" duration="313000" />
+      <workItem from="1512008909631" duration="2054000" />
+      <workItem from="1512058540408" duration="9581000" />
+      <workItem from="1512396198968" duration="632000" />
+      <workItem from="1512590370085" duration="176000" />
+      <workItem from="1513067870353" duration="25502000" />
+      <workItem from="1513097949581" duration="5258000" />
+      <workItem from="1513104871154" duration="928000" />
+      <workItem from="1513106830277" duration="1579000" />
+      <workItem from="1513131183241" duration="11995000" />
+      <workItem from="1513173896173" duration="148000" />
+      <workItem from="1513174207211" duration="599000" />
+      <workItem from="1513180027313" duration="6291000" />
+      <workItem from="1513189764879" duration="891000" />
+      <workItem from="1513190747615" duration="1013000" />
+      <workItem from="1513218247926" duration="74000" />
+      <workItem from="1513238665213" duration="9110000" />
+      <workItem from="1513248850642" duration="683000" />
+      <workItem from="1513249603112" duration="1749000" />
+      <workItem from="1513251380641" duration="12857000" />
+      <workItem from="1513305715946" duration="6846000" />
+      <workItem from="1513440531420" duration="32292000" />
+      <workItem from="1513500800595" duration="6439000" />
+      <workItem from="1513513002599" duration="182000" />
+      <workItem from="1513517425192" duration="90000" />
+      <workItem from="1513610115634" duration="289000" />
+      <workItem from="1513612163558" duration="33000" />
+      <workItem from="1513612273529" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="162641000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281768" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17916666" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39889503" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.086979166" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="24" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sample/profileFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="method#initialize#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handlePaneButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="e#3143#3144#0" expanded="true" />
+            <element signature="e#3183#3184#0" expanded="true" />
+            <element signature="e#3270#3271#0" expanded="true" />
+            <element signature="e#3300#3301#0" expanded="true" />
+            <element signature="method#handleLogOutButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleEditProfileButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#getProfileDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#setProfileDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleSubmitButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#submitDonateValues#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#pickDonateDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#getExistingDonateDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#setExistingDonateDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleTissueButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleBloodButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleOrganButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleNewRequest#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleSubmitForm#0;class#profileFXMLController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/signUpFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="method#setValues#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#handleSignUpButton#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#handleBackButton#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#validate#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#submit2DB#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#setExitingValues#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#initialize#0;class#signUpFXMLController#0" expanded="false" />
+            <marker date="1513493955049" expanded="true" signature="4781:5027" ph="INSERT INTO PATIENT_REQUEST... " />
+            <marker date="1513493955049" expanded="true" signature="5149:5386" ph="UPDATE PATIENT... " />
+            <marker date="1513493955049" expanded="true" signature="5427:5694" ph="INSERT INTO PATIENT... " />
+            <marker date="1513493955049" expanded="true" signature="6580:6625" ph="SELECT * FRO... PATIENT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="71" lean-forward="false" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/loginFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="method#handleSignUpButton#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#handleLoginButton#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#validate#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#getResult#0;class#loginFXMLController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/profileFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="method#initialize#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handlePaneButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="e#3143#3144#0" expanded="true" />
+            <element signature="e#3183#3184#0" expanded="true" />
+            <element signature="e#3270#3271#0" expanded="true" />
+            <element signature="e#3300#3301#0" expanded="true" />
+            <element signature="method#handleLogOutButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleEditProfileButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#getProfileDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#setProfileDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleSubmitButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#submitDonateValues#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#pickDonateDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#getExistingDonateDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#setExistingDonateDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleTissueButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleBloodButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleOrganButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleNewRequest#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleSubmitForm#0;class#profileFXMLController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/signUpFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="method#setValues#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#handleSignUpButton#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#handleBackButton#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#validate#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#submit2DB#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#setExitingValues#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#initialize#0;class#signUpFXMLController#0" expanded="false" />
+            <marker date="1513493955049" expanded="true" signature="4781:5027" ph="INSERT INTO PATIENT_REQUEST... " />
+            <marker date="1513493955049" expanded="true" signature="5149:5386" ph="UPDATE PATIENT... " />
+            <marker date="1513493955049" expanded="true" signature="5427:5694" ph="INSERT INTO PATIENT... " />
+            <marker date="1513493955049" expanded="true" signature="6580:6625" ph="SELECT * FRO... PATIENT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/loginFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="55" column="51" lean-forward="true" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+          <folding>
+            <element signature="method#handleSignUpButton#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#handleLoginButton#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#validate#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#getResult#0;class#loginFXMLController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/user.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#user#0;class#user#0" expanded="false" />
+            <element signature="method#verifyUname#0;class#user#0" expanded="false" />
+            <element signature="method#auth#0;class#user#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/loginFXML.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/signUpFXML.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/signUpFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="34" column="14" lean-forward="false" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding>
+            <element signature="method#setValues#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#handleSignUpButton#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#handleBackButton#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#validate#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#submit2DB#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#setExitingValues#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#initialize#0;class#signUpFXMLController#0" expanded="false" />
+            <marker date="1513493955049" expanded="true" signature="4781:5027" ph="INSERT INTO PATIENT_REQUEST... " />
+            <marker date="1513493955049" expanded="true" signature="5149:5386" ph="UPDATE PATIENT... " />
+            <marker date="1513493955049" expanded="true" signature="5427:5694" ph="INSERT INTO PATIENT... " />
+            <marker date="1513493955049" expanded="true" signature="6580:6625" ph="SELECT * FRO... PATIENT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/loginFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="method#handleSignUpButton#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#handleLoginButton#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#validate#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#getResult#0;class#loginFXMLController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/signUpFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="method#setValues#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#handleSignUpButton#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#handleBackButton#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#validate#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#submit2DB#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#setExitingValues#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#initialize#0;class#signUpFXMLController#0" expanded="false" />
+            <marker date="1513493955049" expanded="true" signature="4781:5027" ph="INSERT INTO PATIENT_REQUEST... " />
+            <marker date="1513493955049" expanded="true" signature="5149:5386" ph="UPDATE PATIENT... " />
+            <marker date="1513493955049" expanded="true" signature="5427:5694" ph="INSERT INTO PATIENT... " />
+            <marker date="1513493955049" expanded="true" signature="6580:6625" ph="SELECT * FRO... PATIENT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/loginFXML.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/signUpFXML.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="76" lean-forward="false" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/loginFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="method#handleSignUpButton#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#handleLoginButton#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#validate#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#getResult#0;class#loginFXMLController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/signUpFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="method#setValues#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#handleSignUpButton#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#handleBackButton#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#validate#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#submit2DB#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#setExitingValues#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#initialize#0;class#signUpFXMLController#0" expanded="false" />
+            <marker date="1513493955049" expanded="true" signature="4781:5027" ph="INSERT INTO PATIENT_REQUEST... " />
+            <marker date="1513493955049" expanded="true" signature="5149:5386" ph="UPDATE PATIENT... " />
+            <marker date="1513493955049" expanded="true" signature="5427:5694" ph="INSERT INTO PATIENT... " />
+            <marker date="1513493955049" expanded="true" signature="6580:6625" ph="SELECT * FRO... PATIENT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/loginFXML.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/signUpFXML.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="76" lean-forward="false" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/sample/signUpFXML.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/loginFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="method#handleSignUpButton#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#handleLoginButton#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#validate#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#getResult#0;class#loginFXMLController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/loginFXML.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="186" lean-forward="true" selection-start-line="22" selection-start-column="186" selection-end-line="22" selection-end-column="186" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/loginController.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/sample/signUp.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/dbConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/appModel.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1557">
+          <caret line="1773" column="0" lean-forward="false" selection-start-line="1773" selection-start-column="0" selection-end-line="1773" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/disease.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/transplant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/signUpFXML.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="32" column="74" lean-forward="false" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/blood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/organs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="71" lean-forward="false" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/loginFXML.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="11" column="247" lean-forward="true" selection-start-line="11" selection-start-column="205" selection-end-line="11" selection-end-column="247" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/loginFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="46" column="58" lean-forward="false" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="58" />
+          <folding>
+            <element signature="method#handleSignUpButton#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#handleLoginButton#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#validate#0;class#loginFXMLController#0" expanded="false" />
+            <element signature="method#getResult#0;class#loginFXMLController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/tissues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/profileFXML.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2604">
+          <caret line="124" column="146" lean-forward="false" selection-start-line="124" selection-start-column="146" selection-end-line="124" selection-end-column="146" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/profileFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="273" column="68" lean-forward="false" selection-start-line="273" selection-start-column="68" selection-end-line="273" selection-end-column="68" />
+          <folding>
+            <element signature="method#initialize#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handlePaneButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="e#3143#3144#0" expanded="true" />
+            <element signature="e#3183#3184#0" expanded="true" />
+            <element signature="e#3270#3271#0" expanded="true" />
+            <element signature="e#3300#3301#0" expanded="true" />
+            <element signature="method#handleLogOutButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleEditProfileButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#getProfileDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#setProfileDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleSubmitButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#submitDonateValues#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#pickDonateDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#getExistingDonateDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#setExistingDonateDetails#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleTissueButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleBloodButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleOrganButton#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleNewRequest#0;class#profileFXMLController#0" expanded="false" />
+            <element signature="method#handleSubmitForm#0;class#profileFXMLController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/user.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#user#0;class#user#0" expanded="false" />
+            <element signature="method#verifyUname#0;class#user#0" expanded="false" />
+            <element signature="method#auth#0;class#user#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/signUpFXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="57" column="66" lean-forward="false" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+          <folding>
+            <element signature="method#setValues#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#handleSignUpButton#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#handleBackButton#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#validate#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#submit2DB#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#setExitingValues#0;class#signUpFXMLController#0" expanded="false" />
+            <element signature="method#initialize#0;class#signUpFXMLController#0" expanded="false" />
+            <marker date="1513493955049" expanded="true" signature="4781:5027" ph="INSERT INTO PATIENT_REQUEST... " />
+            <marker date="1513493955049" expanded="true" signature="5149:5386" ph="UPDATE PATIENT... " />
+            <marker date="1513493955049" expanded="true" signature="5427:5694" ph="INSERT INTO PATIENT... " />
+            <marker date="1513493955049" expanded="true" signature="6580:6625" ph="SELECT * FRO... PATIENT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavaFXApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.44-bin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
